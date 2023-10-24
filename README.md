@@ -17,7 +17,9 @@ Las acciones se pueden editar facilmente con Automator para personalizar o añad
 
 ## Desinstalar o eliminar acciones
 Puedes eliminar las acciones desde la carpeta:
+
 ~/Library/Services
 
-Si quieres cambiar FFmpeg de sitio, borra el siguiente y podras seleccionar el nuevo destino al ejecutar una de las acciones:
+Si quieres cambiar FFmpeg de sitio, borra el siguiente archivo y podras seleccionar el nuevo destino al ejecutar una de las acciones:
+
 ~/Library/Preferences/ffmpegActions.plist
