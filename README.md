@@ -6,7 +6,7 @@ Necesitas tener el binario de FFmpeg, puedes descargarlo desde la pagina oficial
 https://ffmpeg.org/download.html#build-mac
 
 Si quieres puedes ver como se usa e instala en mi canal de youtube:
-
+https://www.youtube.com/watch?v=W9jRwmfQofA
 
 
 Las acciones se pueden editar facilmente con Automator para personalizar o añadir mas acciones.
